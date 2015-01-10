@@ -1,0 +1,2 @@
+# Student-Login-System
+Student Login System is a GUI based of Qt 5 Framework and SQLite dabase, that allows students log in using they're personal student identification number. This login will track the time a specific student logged in and out. It will track they're hours and records of the number of students entering and leaving. This is a student/staff project approach, it will be updated and implement better. Copyright/created by Jonathan A Vazquez
